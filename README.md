@@ -27,8 +27,17 @@ cd quote-generator
 
 ```npm install```
 
+
 ### 3. Run App Locally
 
 ```npm start```
+
+### 📦 Built With
+
+- React
+- Vercel – for deployment
+
+
+
 
 
