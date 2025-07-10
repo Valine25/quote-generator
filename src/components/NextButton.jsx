@@ -1,4 +1,4 @@
-
+import styles from './nextButton.module.css';
 export default function NextButton({length,index,setIndex }){
     function handleNext() {
     let random;

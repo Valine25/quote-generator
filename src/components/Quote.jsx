@@ -1,6 +1,6 @@
 import { useState } from "react";
 import NextButton from "./NextButton";
-
+import styles from "./Quote.module.css";
 
 
 export default function Quote() {
