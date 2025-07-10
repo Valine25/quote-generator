@@ -32,6 +32,8 @@ cd quote-generator
 
 ```npm start```
 
+---
+
 ### 📦 Built With
 
 - React
